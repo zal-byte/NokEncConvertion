@@ -8,3 +8,6 @@ And also I installed a logger to connect to the log.txt file and also the sql da
 Of course I didn't install a send logger for me. If you are in doubt you can check the source of my code.
 
 <img width="964" src="https://raw.githubusercontent.com/OhoshiRingo/NokEncConvertion/master/result.png"/> 
+
+
+Ahh you can deconvert again into normal String.
